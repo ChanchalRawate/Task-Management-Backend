@@ -1,1 +1,1 @@
-# Task-Management-Backend
+Task Manager Backend - Flask + MySQL + JWT
